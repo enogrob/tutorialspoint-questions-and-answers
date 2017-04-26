@@ -16,6 +16,7 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 ## Topics
 ```
 Software Languages (mon, wed)
+[x] Bash
 [ ] C Programming
 [ ] C++
 [ ] Elixir
@@ -30,7 +31,7 @@ Software Languages (mon, wed)
 [ ] R
 [ ] Ruby
 
-Web Frameworks (tue)
+Web Frameworks (tue,  thu)
 [ ] Bootstrap (Javascript)
 [ ] Flask     (Python)
 [ ] JQuery    (Javascript)
@@ -41,7 +42,7 @@ Web Frameworks (tue)
 [ ] Spring    (Java)
 [ ] Vue       (Javascript)
 
-Databases (thu)
+Databases (fri)
 [ ] Mongo DB
 [ ] PL/SQL
 [ ] SQL
@@ -58,4 +59,10 @@ Software Design (sat, sun)
 [ ] Design Patterns
 [ ] UML
 [ ] Scrum
+
+DevOps (sat, sun)
+[ ] Ansible
+[ ] Docker
+[ ] Puppet
+[ ] Vagrant
 ```
