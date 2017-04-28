@@ -29,7 +29,7 @@ Software Languages (mon, wed)
 [ ] Perl
 [ ] Python
 [ ] R
-[ ] Ruby
+[x] Ruby
 
 Web Frameworks (tue,  thu)
 [ ] Bootstrap (Javascript)
@@ -48,8 +48,10 @@ Databases (fri)
 [ ] SQL
 
 Web Design (fri)
-[ ] CSS
-[ ] HTML5
+CSS
+[x] CSS Online Test
+HTML5
+[x] HTML5 Online Test
 [ ] MVC
 [ ] RESTful
 [ ] WebServices
